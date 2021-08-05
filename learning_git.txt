@@ -7,3 +7,5 @@ i am learning and recaping on use of github and git
 i am ready to learn and curious about bioinformatics
 
 The units covered in bioinformatics include proteomics,phylogenetics and programming
+
+One of the best ways to learn bioinformatics is continous practise,using youtube and consultation.
