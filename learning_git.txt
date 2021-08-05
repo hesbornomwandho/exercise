@@ -9,3 +9,7 @@ i am ready to learn and curious about bioinformatics
 The units covered in bioinformatics include proteomics,phylogenetics and programming
 
 One of the best ways to learn bioinformatics is continous practise,using youtube and consultation.
+
+i am keen in learning python and R,right now am conversant with bash scripting
+
+This file has now been resolved of any conflicts ready for git commit
